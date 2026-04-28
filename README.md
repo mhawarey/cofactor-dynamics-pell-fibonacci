@@ -7,7 +7,12 @@
 > Mosab Hawarey
 >
 > *AIR Journal of Mathematics and Computational Sciences*, Vol. 2026
->
+> Journal DOI: 10.65737/AIRMCS
+> Journal ISSN: 3142-7197
+> Publisher: Artificial Intelligence Review AIR Publishing House LLC
+> Publication Model: Open Access (CC BY 4.0)
+> Review Type: AI-Powered Peer Review | Under Strict Scholarly Supervision 
+
 > Article ID: AIRMCS2026571 &nbsp;|&nbsp; DOI: [10.65737/AIRMCS2026571](https://doi.org/10.65737/AIRMCS2026571)
 
 ## Overview
