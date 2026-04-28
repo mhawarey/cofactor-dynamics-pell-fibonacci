@@ -51,7 +51,7 @@ We investigate the algebraic structure underlying geometric stabilization in GCD
 
 ## Citation
 
-Hawarey, M. (2026). Cofactor Dynamics and Pell Equations in GCD-Augmented Fibonacci Recurrences: The Algebraic Structure of Geometric Stabilization. AIR Journal of Mathematics and Computational Sciences, Vol. 2026, AIRMCS2026571. https://doi.org/10.65737/AIRMCS2026571 
+Hawarey, M. (2026). Cofactor Dynamics and Pell Equations in GCD-Augmented Fibonacci Recurrences: The Algebraic Structure of Geometric Stabilization. *AIR Journal of Mathematics and Computational Sciences*, Vol. 2026, AIRMCS2026571. https://doi.org/10.65737/AIRMCS2026571 
 
 ## Author
 
