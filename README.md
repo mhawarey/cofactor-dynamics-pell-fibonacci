@@ -2,7 +2,7 @@
 
 **Supplementary Verification Code** for the paper:
 
-> **Cofactor Dynamics and Pell Equations in GCD-Augmented Fibonacci Recurrences: The Algebraic Structure of Geometric Stabilization**
+> **"Cofactor Dynamics and Pell Equations in GCD-Augmented Fibonacci Recurrences: The Algebraic Structure of Geometric Stabilization"**
 >
 > Mosab Hawarey
 >
@@ -14,7 +14,15 @@
 >
 > Publisher: Artificial Intelligence Review AIR Publishing House LLC
 >
-> Article ID: AIRMCS2026571 &nbsp;|&nbsp; DOI: [10.65737/AIRMCS2026571](https://doi.org/10.65737/AIRMCS2026571)
+> Article ID: AIRMCS2026571
+> 
+> Article DOI: https://doi.org/10.65737/AIRMCS2026571
+
+## Original Paper
+
+https://doi.org/10.65737/AIRMCS2026571
+>
+https://airjournals.org/doi/10.65737.AIRMCS2026571.html
 
 ## Overview
 
