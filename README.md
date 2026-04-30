@@ -1,5 +1,7 @@
 # CofactorDynamics-Pell-Fibonacci
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 **Supplementary Verification Code** for the paper:
 
 > **"Cofactor Dynamics and Pell Equations in GCD-Augmented Fibonacci Recurrences: The Algebraic Structure of Geometric Stabilization"**
